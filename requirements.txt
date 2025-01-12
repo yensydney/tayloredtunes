@@ -3,4 +3,3 @@ google-generativeai
 requests
 spotipy
 python-dotenv
-json
