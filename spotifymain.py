@@ -4,8 +4,8 @@ import base64
 from requests import post, get
 import json
 load_dotenv(dotenv_path="/Users/yensydney/Desktop/sbhacks25/.env")
-client_id = os.getenv("CLIENT_ID") 
-client_secret = os.getenv("CLIENT_SECRET")
+client_id = "8b401bcc929d47698526bd8b1b9caf42"
+client_secret = "0eb09d2379ea4a8387c9861176e2eba1"
 
 print("CLIENT_ID:", client_id)
 print("CLIENT_SECRET:", client_secret)
